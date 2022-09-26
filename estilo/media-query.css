@@ -4,15 +4,15 @@
     body{
         background-image: linear-gradient(to top,#49a09d, #5f2c82);
        }
-       #login{
+       section#login{
         width: 950px;
        }
-       #imagen{
+       #imagem{
         float: right;
         width: 50%;
         height: 100%;
        }
-       #login > #formulario{
+       #login  #formulario{
          float: left;
          width: 50%;
        }
